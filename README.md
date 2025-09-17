@@ -73,11 +73,11 @@ https://mavenanalytics.io/data-playground
 
 **📈 Real-World Impact & Applications**
 
--	Customer Retention Strategies: Helps prioritize retention efforts on high-value customers with higher churn risk.
--	 Revenue Protection: Quantifies financial impact of churn, enabling management to estimate cost of inaction.
--	Segmentation-based Interventions: Identifies vulnerable age brackets, income categories, and product holders for targeted campaigns.
--	Executive Decision-Making: High-level KPIs for quick monitoring, with drillthrough capability for deeper insights.
--	Scalable Approach: The framework can be applied to other financial institutions to monitor churn and improve retention strategies.
+-	**Customer Retention Strategies**: Helps prioritize retention efforts on high-value customers with higher churn risk.
+-	**Revenue Protection**: Quantifies financial impact of churn, enabling management to estimate cost of inaction.
+-	**Segmentation-based Interventions**: Identifies vulnerable age brackets, income categories, and product holders for targeted campaigns.
+-	**Executive Decision-Making**: High-level KPIs for quick monitoring, with drillthrough capability for deeper insights.
+-	**Scalable Approach**: The framework can be applied to other financial institutions to monitor churn and improve retention strategies.
 
 **📄 Dashboard Pages**
 
