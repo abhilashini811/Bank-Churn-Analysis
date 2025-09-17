@@ -79,7 +79,7 @@ https://mavenanalytics.io/data-playground
 -	Executive Decision-Making: High-level KPIs for quick monitoring, with drillthrough capability for deeper insights.
 -	Scalable Approach: The framework can be applied to other financial institutions to monitor churn and improve retention strategies.
 
-**Dashboard Pages**
+**📄 Dashboard Pages**
 
 _**Executive Overview**_
 
